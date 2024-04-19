@@ -1,20 +1,24 @@
 # What is this?
-This is a batch script document that helps you to learn batch script as fast as possible. you can find useful and important commands of batch script here.
+This is a batch script document that helps you learn batch script as fast as possible. You can find useful and important commands for batch script here.
 
 # How to Start?
 Just read it.
 
 
 # Prerequisite concepts
-If you want to really learn batch fast you can skip these section but i recommend to read this.
+If you want to really learn batch fast, you can skip these sections, but I recommend reading them.
 
-## Enviroment variables
-enviroment variables are user-defined values that can store some data for programs to access these datas. for example if a program need to run python it can easily find python path from enviroment varables and run it. enviroment  variable have a name that you(and program) can access to it by its name, and a value. value of a variable can be a string, int, file path, list and boolean.
+### Enviroment variables
+Environment variables are user-defined values that can store some data for programs to access. For example, if a program needs to run Python, it can easily find a Python path from environment variables and run it. An environment variable has a name that you (and your program) can access by its name and a value. The value of a variable can be a string, an integer, a file path, a list, or a boolean.
 
-## How my computer works?
-Every click that you do in your windows have a command in command prompt and this is how exactly OS works. when you mvoe a file OS run a command to do this and show on display and you can do it by your self and this is what actually cmd is. 
-When you use a command in command prompt, command will be pass to OS and OS tell your command to your hardware and do what you want.
+### How my computer works?
+Every click that you make in your Windows has a command prompt, and this is exactly how OS works. When you move a file, the OS runs a command to do this and show it on display. You can do it by yourself, and this is actually what cmd is.
+When you use a command in the command prompt, the command will be passed to OS, and OS will tell your command to your hardware and do what you want.
 
-## Do you need to know programming?
-batch script is not a programming language and it is a interpreter-based scripting language. It include some fundamental parts of a programming language such as If, else if, while and etc, but you can't prgram an application with it. So if you are a programmer and know some programming languages you can easily learn batch but if you not, don't worry every thing is easy here just don't stop learning.
+### Do you need to know programming?
+Batch script is not a programming language and it is an interpreter-based scripting language. It includes some fundamental parts of a programming language, such as if, else if, while, etc., but you can't program an application with it. So if you are a programmer and know some programming languages, you can easily learn them, but if you are not, don't worry; everything is easy here; just don't stop learning.
+
+# Let's start
+
+
 
