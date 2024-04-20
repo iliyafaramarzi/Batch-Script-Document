@@ -19,6 +19,26 @@ When you use a command in the command prompt, the command will be passed to OS, 
 Batch script is not a programming language and it is an interpreter-based scripting language. It includes some fundamental parts of a programming language, such as if, else if, while, etc., but you can't program an application with it. So if you are a programmer and know some programming languages, you can easily learn them, but if you are not, don't worry; everything is easy here; just don't stop learning.
 
 # Let's start
+## Run program
+Batch script files has .bat extention and you can them in cmd with "name.bat [arg]" command in cmd.(you have to change your directory to file directory using 'cd' command)
+
+## Print(echo)
+you can dispaly anything on display with 'echo' command. Now you can write 'echo Hello World' and run it like what did i say and boom you write your first batch script program.
+
+### What is '@echo off'
+If you don't use '@echo off' command in your project you can see that when you run your program it will enter some prompt and show output but when you use '@echo off' every command that you use will be run at background and you can just see the output.
+you can also restore it to defualt with using '@echo on' command.
+
+### What is @?
+@ means this is not a echo command and don't display anything on screen from this line.
+
+### All formats of echo
+- echo [on / off] --> to set command-line setting
+- echo [message] --> Print meesage
+- echo.[message] --> Print meesage
+- echo/[message] --> Print meesage
+- echo --> show current setting of the commandline
+- echo /? --> Show for 'echo' command
 
 
 # Contact me
