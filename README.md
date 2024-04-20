@@ -20,14 +20,14 @@ Batch script is not a programming language and it is an interpreter-based script
 
 # Let's start
 ## Run program
-Batch script files has .bat extention and you can them in cmd with "name.bat [arg]" command in cmd.(you have to change your directory to file directory using 'cd' command)
+Batch script files has .bat extention and you can them in cmd with `name.bat [arg]` command in cmd. (you have to change your directory to file directory using `cd` command)
 
 ## Print(echo)
 you can dispaly anything on display with 'echo' command. Now you can write 'echo Hello World' and run it like what did i say and boom you write your first batch script program.
 
-### What is '@echo off'
-If you don't use '@echo off' command in your project you can see that when you run your program it will enter some prompt and show output but when you use '@echo off' every command that you use will be run at background and you can just see the output.
-you can also restore it to defualt with using '@echo on' command.
+### What is `@echo off`
+If you don't use `@echo off` command in your project you can see that when you run your program it will enter some prompt and show output but when you use `@echo off` every command that you use will be run at background and you can just see the output.
+you can also restore it to defualt with using `@echo on` command.
 
 ### What is @?
 @ means this is not a echo command and don't display anything on screen from this line.
